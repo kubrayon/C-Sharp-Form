@@ -8,3 +8,8 @@
 ## ***Uygulama-3***
 ### Girilen sayının faktöriyelini hesaplar.
 ![Ekran Alıntısı](https://user-images.githubusercontent.com/89014002/144636724-94ac8675-8361-4992-9899-61a7b7ebbe27.PNG)
+
+
+## ***Uygulama-4***
+### Çarpım Tablosu
+![Ekran Alıntısıdd](https://user-images.githubusercontent.com/89014002/144638932-7eb68c8b-559d-45f0-a824-a304aa4570c0.PNG)
