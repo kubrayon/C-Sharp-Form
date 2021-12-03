@@ -1,0 +1,30 @@
+C:\Users\pc\Desktop\GP1\GP1\bin\Debug\GP1.exe.config
+C:\Users\pc\Desktop\GP1\GP1\bin\Debug\GP1.exe
+C:\Users\pc\Desktop\GP1\GP1\bin\Debug\GP1.pdb
+C:\Users\pc\Desktop\GP1\GP1\obj\Debug\GP1.csprojResolveAssemblyReference.cache
+C:\Users\pc\Desktop\GP1\GP1\obj\Debug\GP1.Form1.resources
+C:\Users\pc\Desktop\GP1\GP1\obj\Debug\GP1.Properties.Resources.resources
+C:\Users\pc\Desktop\GP1\GP1\obj\Debug\GP1.csproj.GenerateResource.Cache
+C:\Users\pc\Desktop\GP1\GP1\obj\Debug\GP1.exe
+C:\Users\pc\Desktop\GP1\GP1\obj\Debug\GP1.pdb
+C:\Users\pc\Desktop\Yeni klasör (2)\GP1\GP1\bin\Debug\GP1.exe.config
+C:\Users\pc\Desktop\Yeni klasör (2)\GP1\GP1\bin\Debug\GP1.exe
+C:\Users\pc\Desktop\Yeni klasör (2)\GP1\GP1\bin\Debug\GP1.pdb
+C:\Users\pc\Desktop\Yeni klasör (2)\GP1\GP1\obj\Debug\GP1.csprojResolveAssemblyReference.cache
+C:\Users\pc\Desktop\Yeni klasör (2)\GP1\GP1\obj\Debug\GP1.Form1.resources
+C:\Users\pc\Desktop\Yeni klasör (2)\GP1\GP1\obj\Debug\GP1.Properties.Resources.resources
+C:\Users\pc\Desktop\Yeni klasör (2)\GP1\GP1\obj\Debug\GP1.csproj.GenerateResource.Cache
+C:\Users\pc\Desktop\Yeni klasör (2)\GP1\GP1\obj\Debug\GP1.exe
+C:\Users\pc\Desktop\Yeni klasör (2)\GP1\GP1\obj\Debug\GP1.pdb
+C:\Users\pc\Desktop\GP\GP1\GP1\bin\Debug\GP1.exe.config
+C:\Users\pc\Desktop\GP\GP1\GP1\obj\Debug\GP1.exe
+C:\Users\pc\Desktop\GP\GP1\GP1\obj\Debug\GP1.pdb
+C:\Users\pc\Desktop\Kübraa\GP\GP1\GP1\bin\Debug\GP1.exe.config
+C:\Users\pc\Desktop\Kübraa\GP\GP1\GP1\obj\Debug\GP1.exe
+C:\Users\pc\Desktop\Kübraa\GP\GP1\GP1\obj\Debug\GP1.pdb
+C:\Users\pc\Desktop\Kübraa\GP\GP1\GP1\bin\Debug\GP1.exe
+C:\Users\pc\Desktop\Kübraa\GP\GP1\GP1\bin\Debug\GP1.pdb
+C:\Users\pc\Desktop\Kübraa\GP\GP1\GP1\obj\Debug\GP1.csprojResolveAssemblyReference.cache
+C:\Users\pc\Desktop\Kübraa\GP\GP1\GP1\obj\Debug\GP1.Form1.resources
+C:\Users\pc\Desktop\Kübraa\GP\GP1\GP1\obj\Debug\GP1.Properties.Resources.resources
+C:\Users\pc\Desktop\Kübraa\GP\GP1\GP1\obj\Debug\GP1.csproj.GenerateResource.Cache
