@@ -18,3 +18,8 @@
 ## ***Uygulama-5***
 ### Rastgele sayı üretip, rastgele seçtiği sayıların toplamını gösterir.
 ![aaa](https://user-images.githubusercontent.com/89014002/144639785-25bd455a-c044-4ef6-abcf-8794b413a766.PNG)
+
+
+## ***Uygulama-6***
+### Seçilen araç modeline ve saatine göre otopark ücretini hesaplar.
+![aaa](https://user-images.githubusercontent.com/89014002/144641195-01f2f355-1e8b-4ebd-ac35-a0f44182e5ac.PNG)
