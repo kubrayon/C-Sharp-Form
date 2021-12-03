@@ -1,5 +1,9 @@
 # c# Form Uygulamalarım
 
+## ***Yazı-Tura***
+### Butona basılınca yazı tura atan uygulama.
+![Ekran Alıntısı](https://user-images.githubusercontent.com/89014002/144644906-efda0512-5b49-4891-bece-8019a94e06bc.PNG)
+
 
 ## ***Uygulama-2***
 ### Labellara yazılan sayıları butona basınca büyükten küçüğe sıralar.
