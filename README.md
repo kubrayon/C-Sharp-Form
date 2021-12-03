@@ -21,5 +21,5 @@
 
 
 ## ***Uygulama-6***
-### Seçilen araç modeline ve saatine göre otopark ücretini hesaplar.
+### Seçilen araç tipine ve saatine göre otopark ücretini hesaplar.
 ![aaa](https://user-images.githubusercontent.com/89014002/144641195-01f2f355-1e8b-4ebd-ac35-a0f44182e5ac.PNG)
