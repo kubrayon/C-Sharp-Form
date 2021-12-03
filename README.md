@@ -13,3 +13,8 @@
 ## ***Uygulama-4***
 ### Çarpım Tablosu
 ![Ekran Alıntısıdd](https://user-images.githubusercontent.com/89014002/144638932-7eb68c8b-559d-45f0-a824-a304aa4570c0.PNG)
+
+
+## ***Uygulama-5***
+### Rastgele sayı üretip, rastgele seçtiği sayıların toplamını gösterir.
+![aaa](https://user-images.githubusercontent.com/89014002/144639785-25bd455a-c044-4ef6-abcf-8794b413a766.PNG)
