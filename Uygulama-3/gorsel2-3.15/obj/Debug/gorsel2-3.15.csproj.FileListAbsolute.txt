@@ -1,0 +1,31 @@
+c:\users\orkinos-\documents\visual studio 2015\Projects\gorsel2-3.15\gorsel2-3.15\bin\Debug\gorsel2-3.15.exe.config
+c:\users\orkinos-\documents\visual studio 2015\Projects\gorsel2-3.15\gorsel2-3.15\bin\Debug\gorsel2-3.15.exe
+c:\users\orkinos-\documents\visual studio 2015\Projects\gorsel2-3.15\gorsel2-3.15\bin\Debug\gorsel2-3.15.pdb
+c:\users\orkinos-\documents\visual studio 2015\Projects\gorsel2-3.15\gorsel2-3.15\obj\Debug\gorsel2-3.15.csprojResolveAssemblyReference.cache
+c:\users\orkinos-\documents\visual studio 2015\Projects\gorsel2-3.15\gorsel2-3.15\obj\Debug\gorsel2_3._15.Form1.resources
+c:\users\orkinos-\documents\visual studio 2015\Projects\gorsel2-3.15\gorsel2-3.15\obj\Debug\gorsel2_3._15.Properties.Resources.resources
+c:\users\orkinos-\documents\visual studio 2015\Projects\gorsel2-3.15\gorsel2-3.15\obj\Debug\gorsel2-3.15.csproj.GenerateResource.Cache
+c:\users\orkinos-\documents\visual studio 2015\Projects\gorsel2-3.15\gorsel2-3.15\obj\Debug\gorsel2-3.15.exe
+c:\users\orkinos-\documents\visual studio 2015\Projects\gorsel2-3.15\gorsel2-3.15\obj\Debug\gorsel2-3.15.pdb
+C:\DERSLER\Görsel2-uygulamalar-2019\Gorsel2-vize\gorsel2-3.15\gorsel2-3.15\bin\Debug\gorsel2-3.15.exe.config
+C:\DERSLER\Görsel2-uygulamalar-2019\Gorsel2-vize\gorsel2-3.15\gorsel2-3.15\bin\Debug\gorsel2-3.15.exe
+C:\DERSLER\Görsel2-uygulamalar-2019\Gorsel2-vize\gorsel2-3.15\gorsel2-3.15\bin\Debug\gorsel2-3.15.pdb
+C:\DERSLER\Görsel2-uygulamalar-2019\Gorsel2-vize\gorsel2-3.15\gorsel2-3.15\obj\Debug\gorsel2-3.15.csprojAssemblyReference.cache
+C:\DERSLER\Görsel2-uygulamalar-2019\Gorsel2-vize\gorsel2-3.15\gorsel2-3.15\obj\Debug\gorsel2_3._15.Form1.resources
+C:\DERSLER\Görsel2-uygulamalar-2019\Gorsel2-vize\gorsel2-3.15\gorsel2-3.15\obj\Debug\gorsel2_3._15.Properties.Resources.resources
+C:\DERSLER\Görsel2-uygulamalar-2019\Gorsel2-vize\gorsel2-3.15\gorsel2-3.15\obj\Debug\gorsel2-3.15.csproj.GenerateResource.cache
+C:\DERSLER\Görsel2-uygulamalar-2019\Gorsel2-vize\gorsel2-3.15\gorsel2-3.15\obj\Debug\gorsel2-3.15.csproj.CoreCompileInputs.cache
+C:\DERSLER\Görsel2-uygulamalar-2019\Gorsel2-vize\gorsel2-3.15\gorsel2-3.15\obj\Debug\gorsel2-3.15.exe
+C:\DERSLER\Görsel2-uygulamalar-2019\Gorsel2-vize\gorsel2-3.15\gorsel2-3.15\obj\Debug\gorsel2-3.15.pdb
+C:\Users\pc\Desktop\GP\gorsel2-3.15\gorsel2-3.15\bin\Debug\gorsel2-3.15.exe.config
+C:\Users\pc\Desktop\GP\gorsel2-3.15\gorsel2-3.15\obj\Debug\gorsel2-3.15.exe
+C:\Users\pc\Desktop\GP\gorsel2-3.15\gorsel2-3.15\obj\Debug\gorsel2-3.15.pdb
+C:\Users\pc\Desktop\Kübraa\GP\gorsel2-3.15\gorsel2-3.15\bin\Debug\gorsel2-3.15.exe.config
+C:\Users\pc\Desktop\Kübraa\GP\gorsel2-3.15\gorsel2-3.15\obj\Debug\gorsel2-3.15.exe
+C:\Users\pc\Desktop\Kübraa\GP\gorsel2-3.15\gorsel2-3.15\obj\Debug\gorsel2-3.15.pdb
+C:\Users\pc\Desktop\Kübraa\GP\gorsel2-3.15\gorsel2-3.15\bin\Debug\gorsel2-3.15.exe
+C:\Users\pc\Desktop\Kübraa\GP\gorsel2-3.15\gorsel2-3.15\bin\Debug\gorsel2-3.15.pdb
+C:\Users\pc\Desktop\Kübraa\GP\gorsel2-3.15\gorsel2-3.15\obj\Debug\gorsel2-3.15.csprojResolveAssemblyReference.cache
+C:\Users\pc\Desktop\Kübraa\GP\gorsel2-3.15\gorsel2-3.15\obj\Debug\gorsel2_3._15.Form1.resources
+C:\Users\pc\Desktop\Kübraa\GP\gorsel2-3.15\gorsel2-3.15\obj\Debug\gorsel2_3._15.Properties.Resources.resources
+C:\Users\pc\Desktop\Kübraa\GP\gorsel2-3.15\gorsel2-3.15\obj\Debug\gorsel2-3.15.csproj.GenerateResource.Cache
