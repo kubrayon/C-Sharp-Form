@@ -5,6 +5,11 @@
 ![aaa](https://user-images.githubusercontent.com/89014002/144645128-cedde8f2-1f6e-4642-84f8-a589cb99988f.PNG)
 
 
+## ***Kelime***
+### Türkçe ve İngilizce kelimeler içeren tahmin oyunu.
+![bbb](https://user-images.githubusercontent.com/89014002/144645439-44103153-8fd9-47d6-81b8-de591d531d3c.PNG) ![ccc](https://user-images.githubusercontent.com/89014002/144645455-9fa2cc42-986f-4bf4-b991-33420552dfef.PNG)
+
+
 
 ## ***Yazı-Tura***
 ### Butona basılınca yazı tura atan uygulama.
