@@ -23,3 +23,10 @@
 ## ***Uygulama-6***
 ### Seçilen araç tipine ve saatine göre otopark ücretini hesaplar.
 ![aaa](https://user-images.githubusercontent.com/89014002/144641195-01f2f355-1e8b-4ebd-ac35-a0f44182e5ac.PNG)
+
+
+## ***Uygulama-7***
+### Miktar değeri numericupdown kontrolüne girdikten sonra radio düğmeleri ile kullanıcı labeldaki sayıyı arttıracak veya azaltacaktır.
+![aaa](https://user-images.githubusercontent.com/89014002/144641943-9d9c2596-26cb-420d-a34a-8bf1c39b90d7.PNG) ![bbb](https://user-images.githubusercontent.com/89014002/144641991-1bfaa2ae-4a06-4ff9-9f4e-55921b55a29b.PNG)
+
+            
